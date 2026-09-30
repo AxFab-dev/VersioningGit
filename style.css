@@ -1,0 +1,22 @@
+body {
+	background-color: #f4f7fb;
+	color: #243447;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	color: #1d4e89;
+	font-family: Georgia, serif;
+}
+
+h2 {
+	color: #347a7a;
+	border-bottom: 2px solid #c8dce8;
+	padding-bottom: 0.3em;
+}
+
+.devise {
+	font-style: italic;
+	color: #596b7a;
+}
+
