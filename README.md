@@ -232,8 +232,8 @@ Exemples de routes :
 | PUT | `/api/tasks/:id` | Modifier une tâche |
 | DELETE | `/api/tasks/:id` | Supprimer une tâche |
 
-## Auteur
+##Auteur
 
-Projet réalisé dans le cadre d'un exercice de développement web.
+Axel
 
 **Technologies :** React.js, Node.js, Express.js et MySQL.
